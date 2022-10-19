@@ -1,2 +1,2 @@
 # Multiverse-Spider-Men
-Website created with HTML, CSS, SASS and JavaScript at DIO's online event.
+Website created with HTML, CSS and JavaScript at DIO's online event.
