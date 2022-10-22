@@ -1,0 +1,24 @@
+.gallery {
+  padding: 20px;
+  padding: 0;
+}
+
+.gallery ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.gallery ul li {
+  margin-left: 25px;
+}
+
+.gallery ul li:last-child {
+  margin-right: 600px;
+}
+
+.gallery ul li img {
+  border: solid 6px #ffffff;
+  border-radius: 15px;
+  width: 390px;
+  height: 219px;
+}
