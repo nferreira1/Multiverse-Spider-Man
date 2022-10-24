@@ -12,10 +12,6 @@
   margin-left: 25px;
 }
 
-.gallery ul li:last-child {
-  margin-right: 600px;
-}
-
 .gallery ul li img {
   border: solid 6px #ffffff;
   border-radius: 15px;
